@@ -1,2 +1,2 @@
 # MySQL-Normlization
-MySQL Normlization Example
+MySQL Normlization Project Example
